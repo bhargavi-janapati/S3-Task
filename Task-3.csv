@@ -1,0 +1,11 @@
+bucket_name,bucket_size,public_status,versioning_status,bucket_region
+bhargavi_team-ww-s1,1540,TRUE,Enabled,us-east-1
+bhargavi_team-ww-s2,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s3,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s4,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s5,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s6,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s7,1540,FALSE,None,us-east1
+bhargavi_team-ww-s8,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s9,1540,FALSE,None,us-east-1
+bhargavi_team-ww-s10,1540,FALSE,None,us-east-1
